@@ -1,0 +1,8 @@
+{
+    "name": "reekoheek/personal-blog",
+    "tasks": {
+        "serve": [
+            ["bundle", "exec", "jekyll", "serve"]
+        ]
+    }
+}

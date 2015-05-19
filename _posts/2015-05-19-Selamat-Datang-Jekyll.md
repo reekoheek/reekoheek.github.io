@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: bahasa
+tags: [bahasa]
 title: Selamat Datang Jekyll
 ---
 
