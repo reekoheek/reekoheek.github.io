@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Journaling My Research
+tags: [Riset]
 ---
 
 This is my first post. This blog is intended to journalize my research activity on bleeding edge technology. Recently, likely, it will be filled by several topics like programming such as Node.js, PHP, Java, etc, but it doesn't close the opportunity window to another topics.

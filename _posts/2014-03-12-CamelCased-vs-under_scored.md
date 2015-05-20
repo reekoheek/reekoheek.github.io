@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CamelCased vs under_scored!
+tags: [Teknologi]
 ---
 
 Dalam dunia pemrograman sering kita temui dua macam cara penulisan frase atau kalimat yang harus dituangkan dalam bentuk kode-kode pemrograman. Tujuan dari hal ini adalah agar frase atau kalimat tersebut dapat dituliskan dalam bentuk yang dapat diterima oleh compiler atau interpreter.

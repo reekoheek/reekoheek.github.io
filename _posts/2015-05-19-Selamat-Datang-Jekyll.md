@@ -2,6 +2,7 @@
 layout: post
 tags: [bahasa]
 title: Selamat Datang Jekyll
+tags: [Teknologi]
 ---
 
 Sebagai seorang programmer opensource sedikit banyak saya sudah menggunakan github sebagai layanan manajemen source code. Kehidupan per-coding-an sangat terbantu dengan layanan yang disediakan oleh github. Selain untuk menyimpan source code, github juga sudah saya dan organisasi saya gunakan sebagai issue tracker, untuk produk-produk opensource kami.

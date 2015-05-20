@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bye connectbot and welcome juicessh
-tags: [bahasa]
+tags: [Teknologi]
 ---
 
 Sudah dua tahun lebih saya menggunakan Connectbot untuk terhubung dengan mesin-mesin development atau pun production melalui SSH server di perangkat mobile saya. Selama ini tidak pernah ada masalah dalam pengoperasiannya. Namun beberapa hari belakangan aplikasi ini crash setiap digunakan untuk membuka ssh notebook saya.
